@@ -1,0 +1,6 @@
+numpy
+scipy
+numba
+pillow
+matplotlib
+# also needed, outside pip: a C++17 compiler with OpenMP (g++) and ffmpeg
